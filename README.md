@@ -5,7 +5,7 @@ This readme file explains how to use poetry to install dependencies and how to r
 
 ## imporant
 
-If you're looking to take your tftest skills further, check out my latest blog post. I walk you through the thought process behind writing effective tftest scripts and share some tips and tricks for testing real resources. Plus, I cover how to test state files and changes in resources. Follow the link to level up your testing game! [blog]
+If you're looking to take your tftest skills further, check out my latest blog post. I walk you through the thought process behind writing effective tftest scripts and share some tips and tricks for testing real resources. Plus, I cover how to test state files and changes in resources. Follow the link to level up your testing game! [blog](https://isar-nasimov.medium.com/terraform-testing-made-easy-with-python-exploring-tftest-925bb207eabd)
 
 ## How to Run Pytest
 
